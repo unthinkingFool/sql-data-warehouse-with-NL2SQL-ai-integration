@@ -1,1 +1,24 @@
 
+# LLM
+groq>=0.30.0
+
+# RAG
+chromadb>=0.4.0
+sentence-transformers>=2.2.2
+
+# Database
+pyodbc>=5.0.0
+sqlalchemy>=2.0.0
+
+# Web UI
+streamlit>=1.31.0
+
+# Data handling
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# Optional evaluation/testing
+pytest>=7.0.0
+
+# Utilities
+numpy>=1.26.0
