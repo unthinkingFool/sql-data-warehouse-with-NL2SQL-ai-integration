@@ -16,9 +16,6 @@
 
 </div>
 
----
-
-> 📽️ **Demo GIF** — `docs/demo.gif` *(record with Loom: type a plain-English question, watch the SQL generate and execute live)*
 
 ---
 
@@ -46,21 +43,32 @@ This replicates what companies like Stripe, Databricks, and Snowflake are buildi
 
 ---
 
+
 ## 📋 Table of Contents
 
-- [Data Architecture](#️-data-architecture)
+- [Workflow](#-workflow)
+- [Data Architecture](#-data-architecture)
+- [Data Flow Diagram](#-data-flow-diagram)
+- [Data Integration Model](#-data-integration-model)
+- [Data Mart](#-data-mart)
+- [RAG Pipeline](#-rag-pipeline)
 - [Project Overview](#-project-overview)
-- [Tech Stack](#️-tech-stack)
+- [Tech Stack](#-tech-stack)
 - [Repository Structure](#-repository-structure)
-- [Setup & Installation](#️-setup--installation)
+- [Setup & Installation](#-setup--installation)
 - [Example Queries](#-example-queries)
-- [Data Quality Monitoring](#-data-quality-monitoring)
 - [Skills Demonstrated](#-skills-demonstrated)
+- [Project Requirements](#-project-requirements)
 - [Important Links & Tools](#-important-links--tools)
-- [License](#️-license)
+- [License](#-license)
 - [About Me](#-about-me)
 
+
+
 ---
+## ⚙️ Workflow
+
+![WORKFLOW Diagram](docs/workflow.png)
 
 ## 🏗️ Data Architecture
 
@@ -77,6 +85,10 @@ This replicates what companies like Stripe, Databricks, and Snowflake are buildi
 ## Data Mart
 
 ![Data Mart Diagram](docs/DataMart.png)
+
+## RAG Pipeline
+
+![RAG Diagram](docs/rag.png)
 
 ---
 
