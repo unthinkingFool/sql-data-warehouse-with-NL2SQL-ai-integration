@@ -1,0 +1,18 @@
+[project]
+name = "sql-data-warehouse-with-nl2sql-ai-integration"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=0.4.0",
+    "groq>=0.30.0",
+    "numpy>=1.26.0",
+    "pandas>=2.0.0",
+    "pyodbc>=5.0.0",
+    "pytest>=7.0.0",
+    "python-dotenv>=1.0.0",
+    "sentence-transformers>=2.2.2",
+    "sqlalchemy>=2.0.0",
+    "streamlit>=1.31.0",
+]
