@@ -262,7 +262,7 @@ Open SSMS and run scripts in order:
 scripts/init_database.sql
 scripts/bronze/ddl_bronze.sql
 scripts/bronze/load_bronze.sql
-scripts/bronze/ddl_silver.sql
+scripts/silver/ddl_silver.sql
 scripts/silver/load_silver.sql
 scripts/gold/load_gold.sql
 ```
